@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+input[type=text] {
+    width: 100%;
+    border-radius: 4px;
+    font-family: monospace;
+}
