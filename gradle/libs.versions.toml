@@ -1,0 +1,8 @@
+[versions]
+kotlin = "1.7.10"
+
+[libraries]
+
+[plugins]
+kotlin-cocoapods = { id = "org.jetbrains.kotlin.native.cocoapods", version.ref = "kotlin" }
+kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
